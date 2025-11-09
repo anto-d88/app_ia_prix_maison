@@ -39,7 +39,7 @@ with col1:
     st.write("""
     Une IA de prédiction du prix des maisons selon la surface, le nombre de pièces et la ville.
     """)
-    st.markdown("[🔗 Voir le projet](https://anto-d88-app-ia-prix-maison.streamlit.app)")
+    st.markdown("[🔗 Voir le projet](https://appiaprixmaison-p9u3kvtztlqw6ko77db3jx.streamlit.app/)")
 
 with col2:
     st.subheader("💬 Chatbot IA (à venir)")
